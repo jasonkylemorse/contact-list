@@ -8,4 +8,4 @@ This is a simple contact list web application built using the MEAN stack (MongoD
 
 ### Preview
 
-[[http://i.imgur.com/qWJ7voV.png]]
+[http://i.imgur.com/qWJ7voV.png]
