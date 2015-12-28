@@ -5,3 +5,7 @@ This is a simple contact list web application built using the MEAN stack (MongoD
 1. navigate to `/mongodb/3.2.0/bin` and run `mongod`
 2. navigate to the contact-list project directory and run `node server.js`
 3. point your browser to `localhost:3000`
+
+### Preview
+
+[[http://i.imgur.com/qWJ7voV.png]]
